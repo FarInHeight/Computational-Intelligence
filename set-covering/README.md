@@ -8,7 +8,7 @@ We revisited the problem in this way:
 
 Graphically:
 - Main line: 
-    >---------:
+    >--------: (imagine that this tiles are missing 🙃)
 - Set of lines:
     >-- - -- -:
 
