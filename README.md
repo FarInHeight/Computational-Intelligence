@@ -1,2 +1,2 @@
 # Computational-Intelligence
-Repository for the labs, homeworks and activities of the Computational Intelligence course 23/24 - Politecnico di Torino
+All the material contained in this repository is made public to be evaluated and assessed by other callegues, to make peer-reviewing, and to pursue the final exam of the Computational Intelligence course @PoliTo.
