@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "computational-intelligence"
+version = "0.1.0"
+description = "Repository for the labs, homeworks and activities for the Computational Intelligence course 23/24 - Politecnico di Torino"
+authors = ["Davide Sferrazza"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+numpy = "^1.26.1"
+ipykernel = "^6.25.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
