@@ -1,2 +1,2 @@
 # Computational-Intelligence
-All the material contained in this repository is made public to be evaluated and assessed by other callegues, to make peer-reviewing, and to pursue the final exam of the Computational Intelligence course @PoliTo.
+All material in this repository is made public to be evaluated by other colleagues, for peer-review, to contain homeworks, final project, and to take the final exam of the Computational Intelligence @PoliTo course.
