@@ -23,6 +23,7 @@ The code found in this directory is a readjustment of the lecture available [her
 I extended the content, reorganized the code and created new functions implementing the following algorithms:
 - Breadth-First search;
 - Depth-First search;
-- Uniform-Cost search; 
+- Uniform-Cost search;
+- Greedy Best-First search;
 - Depth-Limited search;
 - Iterative-Deepening search.
