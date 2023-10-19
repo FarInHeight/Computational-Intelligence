@@ -27,6 +27,6 @@ I extended the content, reorganized the code and created new functions implement
 - Greedy Best-First search (informed);
 - Depth-Limited search;
 - Iterative-Deepening search;
-- $A^*$ search (informed);
+- $A^*$ search (informed).
 
 The lab activity is also contained in the notebook.
