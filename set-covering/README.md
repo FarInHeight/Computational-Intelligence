@@ -18,12 +18,15 @@ Graphically:
 
 ## Code
 
-The code found in this directory is a readjustment of the lecture available [here](https://github.com/squillero/computational-intelligence/blob/master/2023-24/set-covering.ipynb). 
+The code found in this directory is an extension of the lecture available [here](https://github.com/squillero/computational-intelligence/blob/master/2023-24/set-covering.ipynb). 
 
 I extended the content, reorganized the code and created new functions implementing the following algorithms:
 - Breadth-First search;
 - Depth-First search;
 - Uniform-Cost search;
-- Greedy Best-First search;
+- Greedy Best-First search (informed);
 - Depth-Limited search;
-- Iterative-Deepening search.
+- Iterative-Deepening search;
+- $A^*$ search (informed);
+
+The lab activity is also contained in the notebook.
