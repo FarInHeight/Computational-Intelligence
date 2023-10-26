@@ -29,4 +29,4 @@ I extended the content, reorganized the code and created new functions implement
 - Iterative-Deepening search;
 - $A^*$ search (informed).
 
-The lab activity is also contained in the notebook.
+#### The lab activity is also contained in the notebook.
