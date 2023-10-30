@@ -77,4 +77,4 @@ The Halloween challenge has been accepted. To solve it, I'd reply with the follo
     Goal reached? Yes \
     State cost: 5
 
-[^1]: The metric used is "best solution using the least number of the fitness function calls (evaluations)".
+[^1]: The metric used is "best solution using the least number of fitness function calls (evaluations)".
