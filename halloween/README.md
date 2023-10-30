@@ -12,4 +12,5 @@ The Halloween challenge has been accepted. To solve it, I'd reply with the follo
 - **Random-Mutation Hill Climber**;
 - **Steepest-Step Hill Climber**;
 - **Steepest-Step Hill Climber with Replacement**;
+- **Tabu Search**;
 - **Simulated Annealing**.
