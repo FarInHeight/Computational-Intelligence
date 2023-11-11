@@ -1,4 +1,4 @@
-# Nim Game
+# Nim Game (misère game)
 
 To make it simple, Nim is a game in which two players compete on a field with a certain number of rows and matchsticks. \
 Given that a row has index $i$, it will contain $2^i + 1$ matchsticks.
@@ -16,7 +16,7 @@ In each turn, each player must take at least one matchstick and from just one ro
 
 In our type of Nim, the player who wins is the one that has to take a matchstick but no one is left. In this way, a player needs to play in order to force the opponent to take the last matchstick.
 
-### Optional Nim Game (The subtraction game)
+### Optional modification (The subtraction game)
 
 It is possible to add a constrain to the game defined above, i.e. we can limit each player to take at most $k$ matchsticks from each row. \
 This additional constrain will cause the game to be slower and it will be more difficult to create a safe winning strategy.
