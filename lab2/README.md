@@ -1,7 +1,7 @@
 # Nim Game (misère game)
 
 To make it simple, Nim is a game in which two players compete on a field with a certain number of rows and matchsticks. \
-Given that a row has index $i$, it will contain $2^i + 1$ matchsticks.
+Given that a row has index $i$ (starting from 0), it will contain $2^i + 1$ matchsticks.
 
 For example, `Nim(5)` (5 rows), we will have the following starting configutation:
 ```
@@ -26,6 +26,7 @@ This additional constrain will cause the game to be slower and it will be more d
 * [Nim](https://en.wikipedia.org/wiki/Nim)
 * [How to win at Nim](https://en.wikipedia.org/wiki/Nim#Proof_of_the_winning_formula)
 * [Additional reading about Nim](https://brilliant.org/wiki/nim/)
+* [Essentials of Metaheuristics, Second Edition](https://cs.gmu.edu/~sean/book/metaheuristics/)
 
 ## Collaborations
 
