@@ -3,7 +3,7 @@
 To make it simple, Nim is a game in which two players compete on a field with a certain number of rows and matchsticks. \
 Given that a row has index $i$ (starting from 0), it will contain $2^i + 1$ matchsticks.
 
-For example, `Nim(5)` (5 rows), we will have the following starting configutation:
+For example, `Nim(5)` (5 rows), we will have the following starting configuration:
 ```
 1.                    |                     (1)
 2.                |   |   |                 (3)
