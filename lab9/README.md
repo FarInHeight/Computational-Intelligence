@@ -5,4 +5,4 @@ We are allowed to implement any algorithm we can think of, no rules.
 
 ## Collaborations
 To implement instances 1 and 2, I collaborated with [Davide Vitabile s330509](https://github.com/Vitabile/Computational-Intelligence/tree/main), [Alexandro Buffa s316999](https://github.com/ExalFabu/Computational-Intelligence/tree/main), [Simone Giambrone s317002](https://github.com/JustLooller/Computational-Intelligence/tree/main) and [Andrea Panuccio s294603](https://github.com/AndPan96/Computational-Intelligence/tree/main).
-For istances 5 and 10, the proposed results were developed by [Davide Vitabile s330509](https://github.com/Vitabile/Computational-Intelligence/tree/main) and myself.
+For instances 5 and 10, the proposed results were developed by [Davide Vitabile s330509](https://github.com/Vitabile/Computational-Intelligence/tree/main) and myself.
