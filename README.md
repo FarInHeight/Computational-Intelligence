@@ -8,5 +8,7 @@ All material in this repository is made public to be evaluated by other colleagu
 
 - Lab 03 (in the `lab9` directory): Solve the *Black-box Problem* instances 1, 2, 5, and 10 on a 1000-loci genomes, using a minimum number of fitness calls. The solution can be found in the Notebook inside the directory.
 
+- Lab 04 (in the `lab10` directory): Use **reinforcement learning** to devise a *Tic-Tac-Toe player*. The solution can be found in the Notebook inside the directory.
+
 ## License
 [MIT License](LICENSE)
